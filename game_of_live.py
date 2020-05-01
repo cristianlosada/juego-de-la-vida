@@ -7,8 +7,8 @@ pygame.init()  # inicializo pygame
 
 tamanio = anchoW, altoH = 1000, 1000
 
-ncellX = 100
-ncellY = 100
+ncellX = 75
+ncellY = 75
 
 dimcW = (anchoW - 1) / ncellX
 dimcH = (altoH - 1) / ncellY
