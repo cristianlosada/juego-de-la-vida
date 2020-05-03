@@ -27,15 +27,15 @@ stateGame[21, 21] = 1
 stateGame[21, 22] = 1
 stateGame[22, 21] = 1
 
-stateGame[5, 5] = 1
-stateGame[5, 7] = 1
-stateGame[6, 6] = 1
-stateGame[6, 7] = 1
-stateGame[7, 6] = 1
+#stateGame[5, 5] = 1
+#stateGame[5, 7] = 1
+#stateGame[6, 6] = 1
+#stateGame[6, 7] = 1
+#stateGame[7, 6] = 1
 
-stateGame[45, 45] = 1
-stateGame[45, 47] = 1
-stateGame[45, 46] = 1
+#stateGame[45, 45] = 1
+#stateGame[45, 47] = 1
+#stateGame[45, 46] = 1
 
 stateGame[6, 6] = 1
 stateGame[9, 7] = 1
